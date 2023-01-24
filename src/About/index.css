@@ -1,0 +1,14 @@
+.about{
+    color: orangered;
+}
+
+.about-container{
+    padding-left: 0px;
+    list-style: none;
+}
+
+.about-item{
+    font-size: 15px;
+    color:#ffffff;
+    font-weight: normal;
+}

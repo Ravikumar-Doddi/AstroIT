@@ -1,0 +1,84 @@
+.header-container{
+    background-image: linear-gradient(to right , #dbd5f7 , #ffffff);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+}
+
+.ul-container{
+    padding-left: 0px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-heading{
+    font-size: 45px;
+}
+
+.list-item{
+    font-size: 20px;
+    font-weight:bold;
+    margin-right:20px ;
+}
+
+.login-button{
+    background-color: #f77102;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 15px;
+    border-width: 0px;
+    border-radius: 25px;
+
+}
+
+.top-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.slogan{
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.span-item{
+    text-decoration: underline;
+}
+
+.para{
+    font-size: 20px;
+}
+
+.input-el-container{
+    border-radius: 10px;
+    border: 1px solid #9e9c98;
+    width: 50%;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+
+.question{
+    color: #f77102;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.inputs-cont{
+    display: flex;
+}
+
+.input-el{
+    outline: none;
+    border-width: 0px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.location{
+    color: #f77102;
+}

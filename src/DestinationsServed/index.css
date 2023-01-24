@@ -1,0 +1,80 @@
+.destinations-heading{
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
+.destinations-cont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.map{
+    width: 95vw;
+}
+
+.destinations-para{
+    font-size: 20px;
+}
+
+.city-img {
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+}
+
+.city-container{
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 5px 5px 5px 5px #f2f0e9;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+.city{
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 500;
+    
+}
+
+.price{
+    font-size: 15px;
+    margin-top: 0px;
+    font-weight: 500;
+}
+
+.cities-container{
+    display: flex;
+    justify-content: center;
+}
+
+.delhi-container{
+    background-color: #f77102;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+.delhi{
+    color: #ffffff;
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 500;
+}
+
+.delhi-price{
+    color: #ffffff;
+    font-size: 15px;
+    margin-top: 0px;
+    font-weight: 500;
+}
